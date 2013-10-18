@@ -1,7 +1,5 @@
 #Open Source
 
-Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það hvernig búa á til lista).
-
 ## 1. Linux uppsetning
 
 Eg nidurhaladi VirtualBox fyrst, svo nidurhaladi eg linux mint. Keyrdi svo Linux mint i VirtualBoxinu. Og svo var bara alles good.
